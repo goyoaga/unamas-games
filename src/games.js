@@ -38,5 +38,13 @@ export const games = [
     url: 'https://goyoaga.github.io/el-amarre-perfecto/',
     icon: '⚓',
     accent: '#326f70',
+  },,
+  {
+    id: 'el-putt-perfecto',
+    title: 'El Putt Perfecto',
+    description: 'Un golpe. La fuerza justa. Directo al hoyo.',
+    url: 'https://goyoaga.github.io/el-putt-perfecto/',
+    icon: '⛳',
+    accent: '#4f7354',
   },
 ];
