@@ -46,7 +46,7 @@ export const games = [
     url: 'https://goyoaga.github.io/el-putt-perfecto/',
     icon: '⛳',
     accent: '#4f7354',
-  },,
+  },
   {
     id: 'el-hueco',
     title: 'El Hueco',
