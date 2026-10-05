@@ -38,7 +38,7 @@ export const games = [
     url: 'https://goyoaga.github.io/el-amarre-perfecto/',
     icon: '⚓',
     accent: '#326f70',
-  },,
+  },
   {
     id: 'el-putt-perfecto',
     title: 'El Putt Perfecto',
@@ -46,5 +46,13 @@ export const games = [
     url: 'https://goyoaga.github.io/el-putt-perfecto/',
     icon: '⛳',
     accent: '#4f7354',
+  },,
+  {
+    id: 'el-hueco',
+    title: 'El Hueco',
+    description: 'Un globo. Dos nubes. Encuentra el hueco.',
+    url: 'https://goyoaga.github.io/el-hueco/',
+    icon: '☁️',
+    accent: '#b85f45',
   },
 ];
